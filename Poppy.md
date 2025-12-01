@@ -15,3 +15,5 @@ Poppies can be annual, biennial, or short-lived and typically have four to six p
 2. Well-drained soil with a pH between 6.0 and 7.0 is needed
 3. Water flowers weekly and adjust watering amount based on yellowing or wilting leaves
 4. Place poppy seeds at least 12 to 18 inches apart to reduce competition and promote airflow
+
+[Home](README.md)

@@ -16,3 +16,5 @@ Lilies typically have tall stems with narrow leaves and large flowers that can b
 3. Consistenly water is needed but avoid overwatering to prevent root rot
 4. Look out for pests like aphids that can eat the flowers
 5. For taller lilies, use stakes to help support the weight and prevent leaning
+
+[Home](README.md)

@@ -16,3 +16,5 @@ Daisies can live in various environments, sunny or shaded areas, and grow on alm
 3. Use a well-drained, nutrient-rich soil 
 4. Fertilize every six weeks with a balanced fetilizer
 5. Add a layer of mulch to help retain moisture and moderate soil temperature
+
+[Home](README.md)

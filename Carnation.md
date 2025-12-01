@@ -16,3 +16,5 @@ Three types of carnations, Large-Flowered Carnations, Dwarf-Flowered Carnations,
 1. Use well-drained soil and give at least 6 hours of direct sunlight daily
 2. Water carnations once a week, allowing the soil to dry out completly between waterings to prevent root rot
 3. Regularly remove dead/spent flowers to encourage flowers to bloom
+
+[Home](README.md)
